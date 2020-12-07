@@ -1,0 +1,12 @@
+ul.indice{
+    list-style: circle;
+}
+ol.primerplato{
+    list-style: decimal;
+}
+ol.fideua{
+    list-style: upper-roman;
+}
+ol.segundo{
+    list-style: lower-latin;
+}
